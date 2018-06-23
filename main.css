@@ -1,0 +1,35 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.main {
+    border:  3px green solid;
+}
+
+.flex-content {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.flex-content > div{
+  flex: 1;
+} 
+
+.imageBox {
+    border:  2px red solid;
+    height: 100%;
+}
+
+
+.controlPanel {
+    border:  2px blue solid;
+    height: 100%;
+}
+
+#root {
+    height: 100%;
+}
