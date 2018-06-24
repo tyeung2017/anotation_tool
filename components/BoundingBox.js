@@ -7,7 +7,7 @@ const style = {
   alignItems: 'center',
   justifyContent: 'center',
   border: 'solid 1px red',
-  background: '#transparent',
+  background: 'transparent',
 };
 
 
